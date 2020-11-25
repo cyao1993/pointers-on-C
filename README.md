@@ -1,5 +1,2 @@
 # pointers on C
-## knowledge point
-### chapter1
-
-## source code
+《C和指针》一书的学习
